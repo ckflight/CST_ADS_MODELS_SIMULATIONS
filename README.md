@@ -14,8 +14,10 @@ This repository will be used to store some of the CST Studio and ADS simulation 
   Wilkinson Power Splitter for Z0 = 50Ohm transmission line where termination resistor value is 2Zo = 100Ohm and 2 ports are     Qurterwave transformers with 1.4Zo = 70Ohm resistance. The simulated attenuations at ports are -3.2dB.
 
 4. antenna.cst : 
-  Conserve case antenna model. 7dBi Gain for 6GHz range.
-
+  Conserve case antenna model. Gain is 7.3dBi at 6GHz.
+  
+  
+  
 ![coax](https://user-images.githubusercontent.com/61315249/82640545-776a7a80-9c13-11ea-84d4-48ef15ace78c.png)
 
 ![impedance](https://user-images.githubusercontent.com/61315249/82639283-193c9800-9c11-11ea-8a53-05aadb76ec9a.png)
