@@ -16,7 +16,7 @@ This repository will be used to store some of the CST Studio and ADS simulation 
 4. antenna.cst : 
   Conserve case antenna model. Gain is 7.3dBi at 6GHz.
   
-5. Microwave Amplifier Design Chapter 12, David Pozar, Stability Test on Keysight ADS
+5. Microwave Amplifier Design Chapter 12, David Pozar, Circular and K_Delta Stability Test on Keysight ADS
   
   
 ![sma_connector](https://user-images.githubusercontent.com/61315249/82730757-d363fa80-9d0a-11ea-9adc-0c520f208fa2.png)
