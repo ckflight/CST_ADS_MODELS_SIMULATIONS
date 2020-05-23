@@ -23,8 +23,8 @@ This repository will be used to store some of the CST Studio and ADS simulation 
 
 ![micro_impedance](https://user-images.githubusercontent.com/61315249/82730844-5be29b00-9d0b-11ea-97d6-a1ac47084fc5.png)
 
-![wilkinson splitter](https://user-images.githubusercontent.com/61315249/82636643-bb598180-9c0b-11ea-9e72-4b63958da9f2.png)
+![wilkinson](https://user-images.githubusercontent.com/61315249/82731048-d233cd00-9d0c-11ea-9aa6-ca4716847868.png)
 
-![antenna](https://user-images.githubusercontent.com/61315249/82641666-5d319c00-9c15-11ea-9d74-befb981ba36a.png)
+![antenna](https://user-images.githubusercontent.com/61315249/82731095-1f17a380-9d0d-11ea-95bb-4091ee4e54d1.png)
 
 ![stability](https://user-images.githubusercontent.com/61315249/82730664-00fc7400-9d0a-11ea-8ad4-b188a123ad76.png)
