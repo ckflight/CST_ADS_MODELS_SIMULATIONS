@@ -21,7 +21,7 @@ This repository will be used to store some of the CST Studio and ADS simulation 
   
 ![sma_connector](https://user-images.githubusercontent.com/61315249/82730757-d363fa80-9d0a-11ea-9adc-0c520f208fa2.png)
 
-![impedance](https://user-images.githubusercontent.com/61315249/82639283-193c9800-9c11-11ea-8a53-05aadb76ec9a.png)
+![micro_impedance](https://user-images.githubusercontent.com/61315249/82730844-5be29b00-9d0b-11ea-97d6-a1ac47084fc5.png)
 
 ![wilkinson splitter](https://user-images.githubusercontent.com/61315249/82636643-bb598180-9c0b-11ea-9e72-4b63958da9f2.png)
 
